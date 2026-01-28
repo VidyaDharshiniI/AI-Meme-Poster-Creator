@@ -1,10 +1,7 @@
 # 🎨 MemeCraft Studio
 
-A Smart Meme & Poster Designing Application built using Python and Streamlit.
-
-# 🎨MemeCraft Studio
-
-MemeCraft Studio – A Smart Meme & Poster Designing Application using Python & Streamlit
+**MemeCraft Studio** is a Smart Meme & Poster Designing Application built using Python and Streamlit.  
+It allows users to create memes and posters by selecting templates, adding multiple text layers, customizing fonts, colors, alignment, and downloading the final edited image.
 
 ---
 
