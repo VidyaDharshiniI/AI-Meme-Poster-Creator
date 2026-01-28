@@ -1,9 +1,10 @@
-# AI-Meme-Poster-Creator
-An AI-powered Meme & Poster Creator using Streamlit and Python
-# 🎨 AI Meme & Poster Creator
+# 🎨 MemeCraft Studio
 
-An AI-powered Meme & Poster Creator web application built using **Python** and **Streamlit**.  
-This project allows users to create memes and posters by selecting templates, adding multiple text layers, customizing fonts, colors, positions, and downloading the final edited image.
+A Smart Meme & Poster Designing Application built using Python and Streamlit.
+
+# 🎨MemeCraft Studio
+
+MemeCraft Studio – A Smart Meme & Poster Designing Application using Python & Streamlit
 
 ---
 
